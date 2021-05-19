@@ -1,5 +1,3 @@
-File 1: app.py
-
 from game_logic import GameLogic
   
 if __name__ == '__main__':
